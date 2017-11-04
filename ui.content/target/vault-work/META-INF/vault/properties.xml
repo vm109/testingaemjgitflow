@@ -5,9 +5,9 @@
 <entry key="createdBy">yvxm035</entry>
 <entry key="name">grainger.ui.content</entry>
 <entry key="acHandling">Merge</entry>
-<entry key="created">2017-11-04T12:01:50.918-0500</entry>
+<entry key="created">2017-11-04T12:47:26.529-0500</entry>
 <entry key="groupId">com.grainger.aem</entry>
-<entry key="version">3.0.7-SNAPSHOT</entry>
+<entry key="version">4.0.0</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">grainger</entry>
 <entry key="description">Maven Multimodule project for Grainger AEM Project.</entry>
