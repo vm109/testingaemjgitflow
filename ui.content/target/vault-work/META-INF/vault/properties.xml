@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Grainger - Default setup content</comment>
+<entry key="createdBy">yvxm035</entry>
+<entry key="name">grainger.ui.content</entry>
+<entry key="acHandling">Merge</entry>
+<entry key="created">2017-11-04T12:01:50.918-0500</entry>
+<entry key="groupId">com.grainger.aem</entry>
+<entry key="version">3.0.7-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">grainger</entry>
+<entry key="description">Maven Multimodule project for Grainger AEM Project.</entry>
+<entry key="artifactId">grainger.ui.content</entry>
+<entry key="path">/etc/packages/grainger/grainger.ui.content.zip</entry>
+</properties>

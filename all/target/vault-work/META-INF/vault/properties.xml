@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Grainger AEM - All</comment>
+<entry key="createdBy">yvxm035</entry>
+<entry key="name">grainger.all</entry>
+<entry key="created">2017-11-04T12:01:51.398-0500</entry>
+<entry key="groupId">com.grainger.aem</entry>
+<entry key="version">3.0.7-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">grainger/aem</entry>
+<entry key="description">Combined package for Grainger AEM project</entry>
+<entry key="artifactId">grainger.all</entry>
+<entry key="path">/etc/packages/grainger/aem/grainger.all.zip</entry>
+</properties>
