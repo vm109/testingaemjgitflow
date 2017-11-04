@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1509815167232
+Bnd-LastModified: 1509818470497
 Build-Jdk: 1.8.0_144
 Built-By: yvxm035
 Bundle-ClassPath: .,OSGI-INF/lib/joda-time-2.3.jar,OSGI-INF/lib/jackson-
