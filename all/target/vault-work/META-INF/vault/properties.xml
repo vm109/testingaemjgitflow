@@ -4,12 +4,12 @@
 <comment>Grainger AEM - All</comment>
 <entry key="createdBy">yvxm035</entry>
 <entry key="name">grainger.all</entry>
-<entry key="created">2017-11-04T12:33:40.381-0500</entry>
+<entry key="created">2017-11-04T12:47:27.146-0500</entry>
 <entry key="groupId">com.grainger.aem</entry>
-<entry key="version">4.0.0-SNAPSHOT</entry>
+<entry key="version">4.0.0</entry>
 <entry key="requiresRoot">false</entry>
-<entry key="group">grainger/aem</entry>
+<entry key="group">com.grainger.aem</entry>
 <entry key="description">Combined package for Grainger AEM project</entry>
 <entry key="artifactId">grainger.all</entry>
-<entry key="path">/etc/packages/grainger/aem/grainger.all.zip</entry>
+<entry key="path">/etc/packages/com.grainger.aem/grainger.all.zip</entry>
 </properties>

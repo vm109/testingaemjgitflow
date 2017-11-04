@@ -5,9 +5,9 @@
 <entry key="createdBy">yvxm035</entry>
 <entry key="name">grainger.ui.apps</entry>
 <entry key="acHandling">Overwrite</entry>
-<entry key="created">2017-11-04T12:33:38.851-0500</entry>
+<entry key="created">2017-11-04T12:47:25.199-0500</entry>
 <entry key="groupId">com.grainger.aem</entry>
-<entry key="version">4.0.0-SNAPSHOT</entry>
+<entry key="version">4.0.0</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">grainger/aem</entry>
 <entry key="description">Maven Multimodule project for Grainger AEM Project.</entry>
