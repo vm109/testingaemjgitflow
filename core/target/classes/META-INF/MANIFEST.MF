@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1509816581195
+Bnd-LastModified: 1509816911985
 Build-Jdk: 1.8.0_144
 Built-By: yvxm035
 Bundle-ClassPath: .,OSGI-INF/lib/joda-time-2.3.jar,OSGI-INF/lib/jackson-
@@ -10,7 +10,7 @@ Bundle-Description: Maven Multimodule project for Grainger AEM Project.
 Bundle-ManifestVersion: 2
 Bundle-Name: Grainger AEM Project Core OSGI Bundle
 Bundle-SymbolicName: com.grainger.aem
-Bundle-Version: 3.0.7.SNAPSHOT
+Bundle-Version: 4.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Embed-Dependency: joda-time,*;scope=compile|runtime
 Embed-Directory: OSGI-INF/lib

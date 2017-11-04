@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/etc/packages/grainger/aem/grainger.ui.apps-3.0.7-SNAPSHOT.zip" />
-    <filter root="/etc/packages/grainger/grainger.ui.content-3.0.7-SNAPSHOT.zip" />
+    <filter root="/etc/packages/grainger/aem/grainger.ui.apps-4.0.0-SNAPSHOT.zip" />
+    <filter root="/etc/packages/grainger/grainger.ui.content-4.0.0-SNAPSHOT.zip" />
 </workspaceFilter>
