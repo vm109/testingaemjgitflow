@@ -468,6 +468,7 @@
                         <flowInitContext>
                             <masterBranchName>master</masterBranchName>
                             <developBranchName>development</developBranchName>
+                            <releaseBranchPrefix>candidatecut</releaseBranchPrefix>
                         </flowInitContext>
                     </configuration>
                 </plugin>
